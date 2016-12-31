@@ -69,7 +69,10 @@
 .list-item .data.title [href*="/anime/8063/"]:after,
 .list-item .data.title [href*="/anime/23283/"]:after,
 .list-item .data.title [href*="/anime/2025/"]:after,
-.list-item .data.title [href*="/anime/32935/"]:after
+.list-item .data.title [href*="/anime/32935/"]:after,
+.list-item .data.title [href*="/anime/32995/"]:after,
+.list-item .data.title [href*="/anime/33253/"]:after,
+.list-item .data.title [href*="/anime/32948/"]:after
 { 
 position: absolute;
 
