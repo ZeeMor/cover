@@ -1,0 +1,98 @@
+/* Anime favoritos */
+.list-item .data.title [href*="/anime/10379/"]:after,
+.list-item .data.title [href*="/anime/11665/"]:after,
+.list-item .data.title [href*="/anime/20651/"]:after,
+.list-item .data.title [href*="/anime/10162/"]:after,
+.list-item .data.title [href*="/anime/5300/"]:after,
+.list-item .data.title [href*="/anime/431/"]:after,
+.list-item .data.title [href*="/anime/719/"]:after,
+.list-item .data.title [href*="/anime/457/"]:after,
+.list-item .data.title [href*="/anime/4081/"]:after,
+.list-item .data.title [href*="/anime/21329/"]:after,
+.list-item .data.title [href*="/anime/21939/"]:after,
+.list-item .data.title [href*="/anime/28735/"]:after,
+.list-item .data.title [href*="/anime/28957/"]:after,
+.list-item .data.title [href*="/anime/32983/"]:after,
+.list-item .data.title [href*="/anime/28223/"]:after,
+.list-item .data.title [href*="/anime/25781/"]:after,
+.list-item .data.title [href*="/anime/24687/"]:after,
+.list-item .data.title [href*="/anime/24701/"]:after,
+.list-item .data.title [href*="/anime/199/"]:after,
+.list-item .data.title [href*="/anime/10408/"]:after,
+.list-item .data.title [href*="/anime/3092/"]:after,
+.list-item .data.title [href*="/anime/16498/"]:after,
+.list-item .data.title [href*="/anime/31043/"]:after,
+.list-item .data.title [href*="/anime/30/"]:after,
+.list-item .data.title [href*="/anime/523/"]:after,
+.list-item .data.title [href*="/anime/11123/"]:after,
+.list-item .data.title [href*="/anime/11113/"]:after,
+.list-item .data.title [href*="/anime/10460/"]:after,
+.list-item .data.title [href*="/anime/1/"]:after,
+.list-item .data.title [href*="/anime/12355/"]:after,
+.list-item .data.title [href*="/anime/14353/"]:after,
+.list-item .data.title [href*="/anime/7711/"]:after,
+.list-item .data.title [href*="/anime/9253/"]:after,
+.list-item .data.title [href*="/anime/9926/"]:after,
+.list-item .data.title [href*="/anime/120/"]:after,
+.list-item .data.title [href*="/anime/20583/"]:after,
+.list-item .data.title [href*="/anime/2759/"]:after,
+.list-item .data.title [href*="/anime/32/"]:after,
+.list-item .data.title [href*="/anime/7674/"]:after,
+.list-item .data.title [href*="/anime/4814/"]:after,
+.list-item .data.title [href*="/anime/13601/"]:after,
+.list-item .data.title [href*="/anime/1041/"]:after,
+.list-item .data.title [href*="/anime/1042/"]:after,
+.list-item .data.title [href*="/anime/13767/"]:after,
+.list-item .data.title [href*="/anime/20815/"]:after,
+.list-item .data.title [href*="/anime/2113/"]:after,
+.list-item .data.title [href*="/anime/6325/"]:after,
+.list-item .data.title [href*="/anime/2251/"]:after,
+.list-item .data.title [href*="/anime/2488/"]:after,
+.list-item .data.title [href*="/anime/6746/"]:after,
+.list-item .data.title [href*="/anime/3784/"]:after,
+.list-item .data.title [href*="/anime/3785/"]:after,
+.list-item .data.title [href*="/anime/32696/"]:after,
+.list-item .data.title [href*="/anime/16918/"]:after,
+.list-item .data.title [href*="/anime/918/"]:after,
+.list-item .data.title [href*="/anime/28891/"]:after,
+.list-item .data.title [href*="/anime/12413/"]:after,
+.list-item .data.title [href*="/anime/25649/"]:after,
+.list-item .data.title [href*="/anime/11739/"]:after,
+.list-item .data.title [href*="/anime/634/"]:after,
+.list-item .data.title [href*="/anime/8634/"]:after,
+.list-item .data.title [href*="/anime/22145/"]:after,
+.list-item .data.title [href*="/anime/17549/"]:after,
+.list-item .data.title [href*="/anime/12531/"]:after,
+.list-item .data.title [href*="/anime/31/"]:after,
+.list-item .data.title [href*="/anime/7588/"]:after,
+.list-item .data.title [href*="/anime/4021/"]:after,
+.list-item .data.title [href*="/anime/8063/"]:after,
+.list-item .data.title [href*="/anime/23283/"]:after,
+.list-item .data.title [href*="/anime/2025/"]:after,
+.list-item .data.title [href*="/anime/32935/"]:after
+{ 
+position: absolute;
+
+display: block; 
+
+content: "\f004 ";
+
+font-size: 10px !important;
+
+font-family: FontAwesome !important;
+
+color: red;
+
+margin-left: 125px;
+
+top: -15px;
+width: 100px;
+
+height: 20px;
+
+z-index: 900;
+}
+
+
+.list-table-data a.List_LightBox:after {display: none !important;
+}
