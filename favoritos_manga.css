@@ -1,0 +1,80 @@
+/* Manga */
+.list-item .data.title [href*="/manga/418/"]:after,
+.list-item .data.title [href*="/manga/23390/"]:after,
+.list-item .data.title [href*="/manga/11716/"]:after,
+.list-item .data.title [href*="/manga/99397/"]:after,
+.list-item .data.title [href*="/manga/17639/"]:after,
+.list-item .data.title [href*="/manga/11734/"]:after,
+.list-item .data.title [href*="/manga/775/"]:after,
+.list-item .data.title [href*="/manga/1199/"]:after,
+.list-item .data.title [href*="/manga/10573/"]:after,
+.list-item .data.title [href*="/manga/58007/"]:after,
+.list-item .data.title [href*="/manga/765/"]:after,
+.list-item .data.title [href*="/manga/5396/"]:after,
+.list-item .data.title [href*="/manga/56857/"]:after,
+.list-item .data.title [href*="/manga/5107/"]:after,
+.list-item .data.title [href*="/manga/49463/"]:after,
+.list-item .data.title [href*="/manga/47953/"]:after,
+.list-item .data.title [href*="/manga/43465/"]:after,
+.list-item .data.title [href*="/manga/47939/"]:after,
+.list-item .data.title [href*="/manga/52021/"]:after,
+.list-item .data.title [href*="/manga/5062/"]:after,
+.list-item .data.title [href*="/manga/3282/"]:after,
+.list-item .data.title [href*="/manga/443/"]:after,
+.list-item .data.title [href*="/manga/2252/"]:after,
+.list-item .data.title [href*="/manga/14739/"]:after,
+.list-item .data.title [href*="/manga/255/"]:after,
+.list-item .data.title [href*="/manga/12151/"]:after,
+.list-item .data.title [href*="/manga/68813/"]:after,
+.list-item .data.title [href*="/manga/93157/"]:after,
+.list-item .data.title [href*="/manga/4011/"]:after,
+.list-item .data.title [href*="/manga/44677/"]:after,
+.list-item .data.title [href*="/manga/90821/"]:after,
+.list-item .data.title [href*="/manga/66057/"]:after,
+.list-item .data.title [href*="/manga/31853/"]:after,
+.list-item .data.title [href*="/manga/17465/"]:after,
+.list-item .data.title [href*="/manga/36903/"]:after,
+.list-item .data.title [href*="/manga/18792/"]:after,
+.list-item .data.title [href*="/manga/28343/"]:after,
+.list-item .data.title [href*="/manga/21467/"]:after,
+.list-item .data.title [href*="/manga/12554/"]:after,
+.list-item .data.title [href*="/manga/1536/"]:after,
+.list-item .data.title [href*="/manga/3468/"]:after,
+.list-item .data.title [href*="/manga/17051/"]:after,
+.list-item .data.title [href*="/manga/13381/"]:after,
+.list-item .data.title [href*="/manga/13163/"]:after,
+.list-item .data.title [href*="/manga/6164/"]:after,
+.list-item .data.title [href*="/manga/5128/"]:after,
+.list-item .data.title [href*="/manga/14608/"]:after,
+.list-item .data.title [href*="/manga/3780/"]:after,
+.list-item .data.title [href*="/manga/92743/"]:after,
+.list-item .data.title [href*="/manga/9699/"]:after,
+.list-item .data.title [href*="/manga/40/"]:after,
+.list-item .data.title [href*="/manga/56689/"]:after,
+.list-item .data.title [href*="/manga/19265/"]:after,
+.list-item .data.title [href*="/manga/19266/"]:after,
+.list-item .data.title [href*="/manga/44/"]:after,
+.list-item .data.title [href*="/manga/857/"]:after,
+.list-item .data.title [href*="/manga/22687/"]:after,
+.list-item .data.title [href*="/manga/1859/"]:after
+{ 
+position: absolute;
+display: block; 
+content: "\f004 ";
+font-size: 10px !important;
+font-family: FontAwesome !important;
+color: red;
+margin-left: 37px;
+top: 318px;
+width: 100px;
+height: 20px;
+z-index: 900;
+}
+ 
+.list-table-data a.List_LightBox:after {display: none !important;
+}
+
+
+
+
+
