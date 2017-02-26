@@ -11,17 +11,30 @@ LukeC - cover code foundation and cover image generation codes;
 Shishio's Custom Lists & Profiles for all tricks, tips and tools and
 Myanimelist Seasonal anime - design inspiration*/
  
-.status-menu-container:after 
+.status-menu-container:after
 { pointer-events: none;
 display: block;
 position: fixed;
 content: '';
-left: 1188px;
+left:1118px;
 top: 200px;
-width: 1005px;
+width: 895px;
 height: 2250px;
-background: url(https://dl.dropboxusercontent.com/u/75947608/MAL_n%C3%A3o%20usadas/Natsume%20e%20Mushishi/teste%204.png) no-repeat;
-background-size: 271px 440px;
+background: url(https://dl.dropboxusercontent.com/u/75947608/oie_transparent%20%286%29.png) no-repeat;
+background-size: 271px 460px;
+z-index:99999999999}
+
+.status-menu-container:before
+{ pointer-events: none;
+display: block;
+position: fixed;
+content: '';
+left:35px;
+top: 170px;
+width: 91px;
+height: 346px;
+background: url(https://dl.dropboxusercontent.com/u/75947608/oie_Ym5CPOvLwLCa.png) no-repeat;
+background-size: 91px 346px;
 z-index:99999999999}
  
 * { color: unset; }
