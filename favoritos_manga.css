@@ -72,10 +72,4 @@ height: 20px;
 z-index: 900;
 }
  
-.list-table-data a.List_LightBox:after {display: none !important;
-}
-
-
-
-
-
+.list-table-data a.List_LightBox:after {display: none !important;}
