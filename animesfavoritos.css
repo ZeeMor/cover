@@ -74,6 +74,6 @@
 .list-item .data.title [href*="/anime/33253/"]:after,
 .list-item .data.title [href*="/anime/32948/"]:after,
 .list-item .data.title [href*="/anime/34591/"]:after
-{ position: absolute;display: block;content: "\f004 ";font-size: 10px !important;font-family: FontAwesome !important;color: red;
+{ position: absolute;display: block;content: "\f004 ";font-size: 10px !important;font-family: FontAwesome !important;color: #ff6666;
 margin-left: 35px;top: 24px;width: 100px;height: 20px;
 z-index: 900;} .list-table-data a.List_LightBox:after {display: none !important;}
