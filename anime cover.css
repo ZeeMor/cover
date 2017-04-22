@@ -1,3 +1,4 @@
+.list-item .data.image a[href*="/1888/"]:before {background-image: url(http://i.imgur.com/Id1MKIo.jpg);}
 .list-item .data.image a[href*="/2131/"]:before {background-image: url(http://i.imgur.com/MaQDPe7.jpg);}
 .list-item .data.image a[href*="/8560/"]:before {background-image: url(http://i.imgur.com/Ab5iUpP.jpg);}
 .list-item .data.image a[href*="/10294/"]:before {background-image: url(http://i.imgur.com/guuEfsq.jpg);}
