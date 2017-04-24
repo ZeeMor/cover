@@ -1,11 +1,3 @@
-.list-item .data.image a[href*="/10294/"]:before {background-image: url(http://i.imgur.com/guuEfsq.jpg);}
-.list-item .data.image a[href*="/10713/"]:before {background-image: url(http://i.imgur.com/nMoFTS0.jpg);}
-.list-item .data.image a[href*="/10714/"]:before {background-image: url(http://i.imgur.com/EQXWg3N.jpg);}
-.list-item .data.image a[href*="/10717/"]:before {background-image: url(http://i.imgur.com/XTjFOx5.jpg);}
-.list-item .data.image a[href*="/10715/"]:before {background-image: url(http://i.imgur.com/hnp309A.jpg);}
-.list-item .data.image a[href*="/15045/"]:before {background-image: url(http://i.imgur.com/WqGDE0Y.jpg);}
-.list-item .data.image a[href*="/21267/"]:before {background-image: url(http://i.imgur.com/9mDSCTU.jpg);}
-.list-item .data.image a[href*="/28077/"]:before {background-image: url(http://i.imgur.com/llNbapq.jpg);}
 .list-item .data.image a[href*="/1/"]:before {background-image: url(http://i.imgur.com/1Uze6L4m.jpg);}
 .list-item .data.image a[href*="/5/"]:before {background-image: url(http://i.imgur.com/BSCXVKum.jpg);}
 .list-item .data.image a[href*="/6/"]:before {background-image: url(http://i.imgur.com/uD69WRnm.jpg);}
@@ -495,6 +487,7 @@
 .list-item .data.image a[href*="/9135/"]:before {background-image: url(http://i.imgur.com/LgEyu1nm.jpg);}
 .list-item .data.image a[href*="/9136/"]:before {background-image: url( http://i.imgur.com/jcCQhOtm.jpg);}
 .list-item .data.image a[href*="/9170/"]:before {background-image: url(http://i.imgur.com/ORwRJ3em.jpg);}
+.list-item .data.image a[href*="/9205/"]:before {background-image: url(http://i.imgur.com/El9r0b2m.jpg);}
 .list-item .data.image a[href*="/9232/"]:before {background-image: url(http://i.imgur.com/uylQx17.jpg);}
 .list-item .data.image a[href*="/9253/"]:before {background-image: url(http://i.imgur.com/CBRN9nHm.jpg);}
 .list-item .data.image a[href*="/9279/"]:before {background-image: url( http://i.imgur.com/9PlKpNwm.jpg);}
@@ -530,6 +523,7 @@
 .list-item .data.image a[href*="/10197/"]:before {background-image: url(http://i.imgur.com/KI3UnNMm.jpg);}
 .list-item .data.image a[href*="/10232/"]:before {background-image: url(http://i.imgur.com/80f0uQBm.jpg);}
 .list-item .data.image a[href*="/10271/"]:before {background-image: url(http://i.imgur.com/J6J0vFXm.jpg);}
+.list-item .data.image a[href*="/10294/"]:before {background-image: url(http://i.imgur.com/guuEfsq.jpg);}
 .list-item .data.image a[href*="/10321/"]:before {background-image: url(http://i.imgur.com/ptdkpBDm.jpg);}
 .list-item .data.image a[href*="/10379/"]:before {background-image: url(http://i.imgur.com/U2xwxxV.jpg);}
 .list-item .data.image a[href*="/10389/"]:before {background-image: url( http://i.imgur.com/xsLFKQqm.jpg);}
@@ -547,6 +541,10 @@
 .list-item .data.image a[href*="/10659/"]:before {background-image: url( http://i.imgur.com/36iRtqa.png);}
 .list-item .data.image a[href*="/10686/"]:before {background-image: url(http://i.imgur.com/GSEjbrN.jpg);}
 .list-item .data.image a[href*="/10711/"]:before {background-image: url(http://i.imgur.com/Xw8nLv2.jpg);}
+.list-item .data.image a[href*="/10713/"]:before {background-image: url(http://i.imgur.com/nMoFTS0.jpg);}
+.list-item .data.image a[href*="/10714/"]:before {background-image: url(http://i.imgur.com/EQXWg3N.jpg);}
+.list-item .data.image a[href*="/10715/"]:before {background-image: url(http://i.imgur.com/hnp309A.jpg);}
+.list-item .data.image a[href*="/10717/"]:before {background-image: url(http://i.imgur.com/XTjFOx5.jpg);}
 .list-item .data.image a[href*="/10721/"]:before {background-image: url(http://i.imgur.com/kKFcJoim.jpg);}
 .list-item .data.image a[href*="/10793/"]:before {background-image: url(http://i.imgur.com/VvB4j0Bm.jpg);}
 .list-item .data.image a[href*="/10798/"]:before {background-image: url(http://i.imgur.com/WZQs63tm.jpg);}
@@ -634,7 +632,8 @@
 .list-item .data.image a[href*="/14949/"]:before {background-image: url(http://i.imgur.com/BXo9sKm.png);}
 .list-item .data.image a[href*="/15021/"]:before {background-image: url( http://i.imgur.com/JoGTw0ym.jpg);}
 .list-item .data.image a[href*="/15043/"]:before {background-image: url( http://i.imgur.com/VEPjiyCm.jpg);}
-.list-item .data.image a[href*="/15043/"]:before {background-image: url(http://i.imgur.com/AAE0TeLm.jpg);}
+.list-item .data.image a[href*="/15045/"]:before {background-image: url(http://i.imgur.com/WqGDE0Y.jpg);}
+.list-item .data.image a[href*="/15077/"]:before {background-image: url(http://i.imgur.com/AAE0TeLm.jpg);}
 .list-item .data.image a[href*="/15085/"]:before {background-image: url( http://i.imgur.com/PBE8tyKm.jpg);}
 .list-item .data.image a[href*="/15109/"]:before {background-image: url(http://i.imgur.com/fo5UARhm.jpg);}
 .list-item .data.image a[href*="/15133/"]:before {background-image: url(http://i.imgur.com/exgnSfv.jpg);}
@@ -739,6 +738,7 @@
 .list-item .data.image a[href*="/21085/"]:before {background-image: url( http://i.imgur.com/i2G5qJLm.jpg);}
 .list-item .data.image a[href*="/21105/"]:before {background-image: url( http://i.imgur.com/0aGg80m.jpg);}
 .list-item .data.image a[href*="/21201/"]:before {background-image: url(http://i.imgur.com/ehAZKyxm.jpg);}
+.list-item .data.image a[href*="/21267/"]:before {background-image: url(http://i.imgur.com/9mDSCTU.jpg);}
 .list-item .data.image a[href*="/21325/"]:before {background-image: url(http://i.imgur.com/mWt9OkUm.jpg);}
 .list-item .data.image a[href*="/21327/"]:before {background-image: url(http://i.imgur.com/VHwV17Rm.jpg);}
 .list-item .data.image a[href*="/21335/"]:before {background-image: url(http://i.imgur.com/BOCXtObm.jpg);}
@@ -852,6 +852,7 @@
 .list-item .data.image a[href*="/27945/"]:before {background-image: url( http://i.imgur.com/ETgpB1Wm.jpg);}
 .list-item .data.image a[href*="/27947/"]:before {background-image: url(http://i.imgur.com/ZPGNMdim.jpg);}
 .list-item .data.image a[href*="/27991/"]:before {background-image: url( http://i.imgur.com/hdUcqnCm.jpg);}
+.list-item .data.image a[href*="/28077/"]:before {background-image: url(http://i.imgur.com/llNbapq.jpg);}
 .list-item .data.image a[href*="/28171/"]:before {background-image: url(http://i.imgur.com/y7UwMdfm.jpg);}
 .list-item .data.image a[href*="/28205/"]:before {background-image: url(http://i.imgur.com/H8trHIXm.jpg);}
 .list-item .data.image a[href*="/28223/"]:before {background-image: url( http://i.imgur.com/S2OXQKjm.jpg);}
@@ -871,8 +872,6 @@
 .list-item .data.image a[href*="/28761/"]:before {background-image: url(http://i.imgur.com/LwldKyTm.jpg);}
 .list-item .data.image a[href*="/28805/"]:before {background-image: url( http://i.imgur.com/zpZWcYKm.jpg);}
 .list-item .data.image a[href*="/28819/"]:before {background-image: url(http://i.imgur.com/k5ZG352.jpg);}
-.list-item .data.image a[href*="/32603/"]:before {background-image: url(http://i.imgur.com/jdiC8eQm.jpg);}
-.list-item .data.image a[href*="/32623/"]:before {background-image: url(http://i.imgur.com/QbFyQghm.jpg);}
 .list-item .data.image a[href*="/28891/"]:before {background-image: url( http://i.imgur.com/SO99mAkm.jpg);}
 .list-item .data.image a[href*="/28957/"]:before {background-image: url( http://i.imgur.com/HtHPow1m.jpg);}
 .list-item .data.image a[href*="/28977/"]:before {background-image: url(http://i.imgur.com/lTBDZQY.png);}
@@ -907,6 +906,8 @@
 .list-item .data.image a[href*="/30413/"]:before {background-image: url(http://i.imgur.com/NvzbEShm.jpg);}
 .list-item .data.image a[href*="/30458/"]:before {background-image: url(http://i.imgur.com/byHdjaDm.jpg);}
 .list-item .data.image a[href*="/30503/"]:before {background-image: url(http://i.imgur.com/n0d8A4zm.jpg);}
+.list-item .data.image a[href*="/32603/"]:before {background-image: url(http://i.imgur.com/jdiC8eQm.jpg);}
+.list-item .data.image a[href*="/32623/"]:before {background-image: url(http://i.imgur.com/QbFyQghm.jpg);}
 .list-item .data.image a[href*="/30651/"]:before {background-image: url(http://i.imgur.com/mtw7i87m.jpg);}
 .list-item .data.image a[href*="/30694/"]:before {background-image: url(http://i.imgur.com/FZXVhszm.jpg);}
 .list-item .data.image a[href*="/30721/"]:before {background-image: url(http://i.imgur.com/QjtKJzSm.jpg);}
