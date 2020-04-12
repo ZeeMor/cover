@@ -1,3 +1,5 @@
+.list-item .data.image a[href*="/0/"]:before {background-image: url();}
+
 .list-item .data.image a[href*="/34411/"]:before {background-image: url(https://i.imgur.com/Yfkq6Bm.jpg);}
 .list-item .data.image a[href*="/34549/"]:before {background-image: url(https://i.imgur.com/6QYq0kK.jpg);}
 .list-item .data.image a[href*="/38476/"]:before {background-image: url(https://i.imgur.com/6K0V0si.jpg);}
@@ -37,10 +39,7 @@
 .list-item .data.image a[href*="/11499/"]:before {background-image: url(https://i.imgur.com/5mAEFAf.jpg);}
 .list-item .data.image a[href*="/22097/"]:before {background-image: url(https://i.imgur.com/ZzkA6BK.jpg);}
 .list-item .data.image a[href*="/34618/"]:before {background-image: url(https://i.imgur.com/jB39GxZ.jpg);}
-.list-item .data.image a[href*="/0/"]:before {background-image: url();}
-.list-item .data.image a[href*="/0/"]:before {background-image: url();}
-
-
+.list-item .data.image a[href*="/39721/"]:before {background-image: url(https://i.imgur.com/1mNdHFQ.jpg);}
 .list-item .data.image a[href*="/10338/"]:before {background-image: url(https://i.imgur.com/uutqnRd.jpg);}
 .list-item .data.image a[href*="/18375/"]:before {background-image: url(https://i.imgur.com/KHkfezp.jpg);}
 .list-item .data.image a[href*="/33352/"]:before {background-image: url(https://i.imgur.com/Z4dnCnP.jpg);}
