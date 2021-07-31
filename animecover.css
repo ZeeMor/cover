@@ -9,7 +9,7 @@
 .list-item .data.image a[href*="//"]:before {background-image: url();}
 .list-item .data.image a[href*="//"]:before {background-image: url();}
 .list-item .data.image a[href*="//"]:before {background-image: url();}
-.list-item .data.image a[href*="//"]:before {background-image: url();}
+.list-item .data.image a[href*="/42333/"]:before {background-image: url(https://i.imgur.com/qG9Q8LY.jpg);}
 .list-item .data.image a[href*="/40757/"]:before {background-image: url(https://i.imgur.com/yeuDqXw.jpg?1);}
 .list-item .data.image a[href*="/40321/"]:before {background-image: url(https://i.imgur.com/WQT9hBt.jpg);}
 .list-item .data.image a[href*="/38026/"]:before {background-image: url(https://i.imgur.com/XYcIW6c.jpg);}
